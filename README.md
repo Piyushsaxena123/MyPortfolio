@@ -34,6 +34,13 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 
 ---
 
+## ☁️ Deployment
+
+### Deploy on Vercel <br/>
+LINK : https://piyushsaxena-portfolio-23.vercel.app/
+
+---
+
 ## ⚙️ Tech Stack
 
 * **React** – Component-based UI development
@@ -83,9 +90,3 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 
 ---
 
-## ☁️ Deployment
-
-### Deploy on Vercel <br/>
-LINK : https://piyushsaxena-portfolio-23.vercel.app/
-
----
